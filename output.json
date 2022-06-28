@@ -1,0 +1,12 @@
+{
+  "primary": {
+    "value": "#2015A7",
+    "type": "color",
+    "description": "primaryです"
+  },
+  "secondary": {
+    "value": "#fff",
+    "type": "color",
+    "description": "secondary"
+  }
+}
