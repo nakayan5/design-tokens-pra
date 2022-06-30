@@ -22,7 +22,15 @@
 - Figma をどうやって管理するか
 
   - Figma API
+    - api 経由で style を取り出す
   - Figma Tokens
+    - JSON ファイルを生成
+      - style dictionary を使用して js と ts ファイルを生成する
+      - theme object 形式にできるのかどうか
+        - document 見る限り出来そうだけどサンプルが少ない
+  - Design Tokens
 
-- JSON ファイルからどうやって js で使えるようにするか
-  - style dictionary
+- figma から github に push したい
+  - Figma Tokens なら少し設定するだけで可能
+  - Figma API
+    - 可能だろうけど git が絡んでくるのでかなり厳しい
