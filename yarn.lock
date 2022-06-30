@@ -7,6 +7,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-18.0.0.tgz#67c7b724e1bcdd7a8821ce0d5ee184d3b4dd525a"
   integrity sha512-cHlGmko4gWLVI27cGJntjs/Sj8th9aYwplmZFwmmgYQQvL5NUsgVJG7OddLvNfLqYS31KFN0s3qlaD9qCaxACA==
 
+"@ubie/design-tokens@^0.0.10":
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/@ubie/design-tokens/-/design-tokens-0.0.10.tgz#8bf204c771240b24da9ed4f0072d81ea6f9ad528"
+  integrity sha512-mvopjkIIIu3ZBV8bxa696gtTC+wVF4yyC9/IAuO7fk8Ei77XCM8zhGlAu3R3ULwVjDY4MKgkASygOfuuBU8Zlg==
+
 ansi-regex@^5.0.1:
   version "5.0.1"
   resolved "https://registry.yarnpkg.com/ansi-regex/-/ansi-regex-5.0.1.tgz#082cb2c89c9fe8659a311a53bd6a4dc5301db304"
